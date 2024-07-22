@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @basakozgurr
 - 👀 I’m interested in coding,data science and swimming
-- 🌱 I’m currently learning data sciens and c sharp
+- 🌱 I’m currently learning data sciens and machine learning
 - 📫 How to reach me celebrationsong@gmail.com
 - ⚡ Fun fact: ı am good at math 
 
